@@ -2,5 +2,5 @@
 
 ##Enlaces
 
-* [Enlace readme de LND] (LND/README.md)
-* [Enlace pagina] (lnd/pagina.md)
+* [enlace readme de LND](LND/README.md)
+* [enlace pagina](lnd/pagina.md)
