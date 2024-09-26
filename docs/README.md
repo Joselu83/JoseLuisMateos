@@ -1,6 +1,6 @@
-#Esta es la pagina de Jose
+# Esta es la pagina de Jose
 
-##Enlaces
+## Enlaces
 
 * [enlace readme de LND](LND/README.md)
 * [enlace pagina](lnd/pagina.md)
